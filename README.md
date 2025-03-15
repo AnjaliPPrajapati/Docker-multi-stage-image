@@ -39,3 +39,5 @@
   Multi-stage builds in Docker help create smaller, more efficient containers by separating the build process into multiple stages. This allows you to include only the     necessary components in your final image, reducing its size and improving performance. By using this technique, you can optimize your development and deployment processes.
 
 *You can learn more on this topic [here](https://docs.docker.com/build/building/multi-stage/) !!!*
+
+**Medium Profile Link:** [Anjali Prajapati](https://medium.com/@anjali.pp.prajapati/building-a-docker-multi-stage-image-combining-rabbitmq-and-python-06c8fe4a0e3e)
